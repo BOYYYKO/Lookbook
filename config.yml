@@ -1,0 +1,8 @@
+development:
+  password: shptka_b26feef349df9a6b0e8b1a1d7f4ede3b
+  theme_id: '138212409570'
+  store: lookbook-test-task.myshopify.com
+  ignore_files:
+    - /\.(txt|gif|bat)$/
+    - '*.liquid___jb_tmp___'
+    - '*.liquid___jb_old___'
